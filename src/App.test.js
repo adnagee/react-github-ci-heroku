@@ -3,6 +3,6 @@ import App from './App';
 
 test('renders learn react link', () => {
   render(<App />);
-  const linkElement = screen.getByText(/I have learnt how to connect/i);
+  const linkElement = screen.getByText(/demo react github heroku ci/i);
   expect(linkElement).toBeInTheDocument();
 });
