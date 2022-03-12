@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Today I want to learn how to connect a React app to both github and heroku while incorporating CI/CD.
+          Today I have learnt how to connect a React app to both github and heroku while incorporating CI/CD.
         </a>
       </header>
     </div>
