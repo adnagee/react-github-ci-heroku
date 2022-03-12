@@ -31,10 +31,7 @@ jobs:
         
     - name: Install Dependencies
       run: npm ci
-    
-    - name: Fix any Errors
-      run: npm audit fix --force
-      
+
     - name: Run tests
       run: npm test
     
